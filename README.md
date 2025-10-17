@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-url-here.com/banner.png" alt="banner" width="100%" />
+  <img src="[https://your-banner-image-url-here.com/banner.png](https://i.ibb.co.com/wTyVYFw/Blue-Green-and-White-Modern-Tech-Web-Developer-Linked-In-Banner.png)" alt="banner" width="100%" />
 </p>
 
 ## 👋 Hello — I’m **Kamruzzaman Ibrahim**
