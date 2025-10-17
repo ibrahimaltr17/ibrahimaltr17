@@ -1,13 +1,13 @@
 <!-- Banner Image -->
 ![Banner](https://your-image-link-here.com/banner.jpg)
 
-# Ibrahim Ibu
+# Kamruzzaman Ibrahim 
 **Frontend & Full Stack Web Developer**
 
 ---
 
 ## About Me
-Hi! I’m Ibrahim Ibu, a passionate Frontend and Full Stack Web Developer.  
+Hi! I’m KamruzzamanIbrahim, a passionate Frontend and Full Stack Web Developer.  
 I love building interactive, responsive, and user-friendly web applications.  
 I’m always exploring new technologies and improving my skills every day.
 
