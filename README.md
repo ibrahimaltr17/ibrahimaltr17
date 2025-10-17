@@ -1,73 +1,146 @@
-<!-- Banner Image -->
-![Banner](https://your-image-link-here.com/banner.jpg)
+# Kamruzzaman Ibrahim — Frontend Developer
 
-# Kamruzzaman Ibrahim 
-**Frontend & Full Stack Web Developer**
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-banner-image-url-here.com/banner.png" alt="banner" width="100%" />
+</p>
 
----
+## 👋 Hello — I’m **Kamruzzaman Ibrahim**
+**Frontend Developer** building clean, accessible, and responsive web apps using modern JavaScript and React ecosystem.
 
-## About Me
-Hi! I’m KamruzzamanIbrahim, a passionate Frontend and Full Stack Web Developer.  
-I love building interactive, responsive, and user-friendly web applications.  
-I’m always exploring new technologies and improving my skills every day.
-
----
-
-## 🌱 Current Activities
-- I am exploring **Next.js** and advanced React patterns.
-- I’m working on **BloodBridge** – a blood donation platform using MERN stack.
-- Improving my **Tailwind CSS** and responsive design skills.
-- Experimenting with **creative project ideas** like LeafLog & LangSync.
+**📍 Location:** Bangladesh  
+**✉️ Email:** ibrahimaltr17@gmail.com  
+**📱 Phone:** +88-01759520547
 
 ---
 
-## 🛠️ Skills
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+## 🔭 About Me
+I’m a frontend developer with strong skills in HTML, CSS, Tailwind, and JavaScript.  
+I love converting UI/UX into fast, accessible interfaces and building projects that solve real problems.  
+I enjoy learning new frameworks and improving developer experience.
 
 ---
 
-## 🔗 Social Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-github)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+## 🛠 Current Activities
+- Exploring **Next.js** and server components  
+- Working on a **tourism website** (frontend + UI polish)  
+- Improving **BloodBridge** (MERN) — registration & donation workflows  
+
+---
+
+## 💡 Skills
+
+### Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tools & Others  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 🔗 Connect
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/ibrahimaltr17))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://bd.linkedin.com/in/md-kamruzzaman-ibrahim-935405210))
+
+> _I avoid posting on Instagram/TikTok for professional contact — please use LinkedIn or email._
 
 ---
 
 ## 📊 GitHub Stats
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&count_private=true" alt="github-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" alt="github-streak" />
+</p>
 
 ---
 
-## 📌 Pinned Projects
+## ⭐ Pinned Projects (client-side)
 
-### 1. BloodBridge
-- **Description:** A MERN stack platform for blood donation management with role-based access.  
-- **Live Link:** [BloodBridge Live](#)  
-- **Technologies:** React, Node.js, Express, MongoDB, Tailwind CSS, Firebase Auth  
-- **Features:**
-  - Donor, Volunteer, and Admin dashboards
-  - Create/manage blood donation requests
-  - Responsive design with dark/light mode
-- **Setup Instructions:**
-  ```bash
-  git clone https://github.com/your-github/bloodbridge.git
-  cd bloodbridge
-  npm install
-  npm start
+### 1️⃣ **LeafLog — Plant Care Tracker (Frontend)**
+**Overview:** A mobile-responsive web app to track plant care tasks (watering, fertilizing, health tracking) with personalized dashboards.  
+
+**Live:** https://your-leaflog-live-link.com  
+**Repo:** https://github.com/your-username/leaflog-frontend  
+
+**Technologies:** React, TailwindCSS, Firebase (Auth), local storage  
+
+**Highlights:**
+- Add / edit / delete plants  
+- Personalized dashboard and reminders  
+- Dark / light mode  
+
+**Screenshot:** `./screenshots/leaflog-home.png`
+
+---
+
+### 2️⃣ **AuctionGallery — React Auction UI**
+**Overview:** Frontend-only React application showcasing auction items, favorites, and bidding UI components.  
+
+**Live:** https://your-auction-live-link.com  
+**Repo:** https://github.com/your-username/auctiongallery  
+
+**Technologies:** React, TailwindCSS, Context / useState  
+
+**Highlights:**
+- Favorite items management  
+- Responsive item grid  
+- Mock bidding flow  
+
+**Screenshot:** `./screenshots/auction-items.png`
+
+---
+
+### 3️⃣ **LangSync — Tutor-based Language Exchange (Frontend)**
+**Overview:** UI for searching tutors, viewing profiles, booking sessions, and uploading resources.  
+
+**Live:** https://your-langsync-live-link.com  
+**Repo:** https://github.com/your-username/langsync-frontend  
+
+**Technologies:** React, TailwindCSS, React Router  
+
+**Highlights:**
+- Tutor listing + profile pages  
+- Booking mock flow  
+- Search & filter capabilities  
+
+**Screenshot:** `./screenshots/langsync-home.png`
+
+---
+
+## 📁 Template for Repository README
+```markdown
+# Project Title
+Short description of the project in one or two lines.
+
+![Screenshot](./screenshots/home.png)
+
+## 🔗 Live Demo
+https://your-live-link.com
+
+## 🛠 Tech Stack
+- React
+- TailwindCSS
+- Firebase (Auth)
+
+## ✨ Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## 🚀 Run Locally
+1. git clone https://github.com/your-username/repo-name.git
+2. cd repo-name
+3. npm install
+4. npm run dev
+
+## 📦 Dependencies
+List dependencies (React Router, axios, formik, etc.)
+
+## 📄 License
+MIT
