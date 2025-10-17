@@ -48,14 +48,12 @@ I enjoy learning new frameworks and improving developer experience.
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/ibrahimaltr17))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://bd.linkedin.com/in/md-kamruzzaman-ibrahim-935405210))
 
-> _I avoid posting on Instagram/TikTok for professional contact — please use LinkedIn or email._
-
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&count_private=true" alt="github-stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" alt="github-streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimaltr17&show_icons=true&theme=default&count_private=true" alt="github-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimaltr17&theme=default" alt="github-streak" />
 </p>
 
 ---
